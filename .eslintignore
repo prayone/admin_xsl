@@ -1,4 +1,5 @@
-build/*.js
+*.js
 src/assets
 public
 dist
+*.vue
